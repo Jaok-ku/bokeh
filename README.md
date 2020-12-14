@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-  <td>Latest Release</td>
+  <td>Latest Release 조금 수정해 보았습니다. </td>
   <td>
     <img src="https://badge.fury.io/gh/bokeh%2Fbokeh.svg" alt="Latest release version" />
     <a href="https://badge.fury.io/js/%40bokeh%2Fbokehjs">
